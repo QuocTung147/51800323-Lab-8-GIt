@@ -2,5 +2,5 @@
 #include <stdlib.h>
 void main()
 {
-int a, c;
+int a, b, c;
 }
