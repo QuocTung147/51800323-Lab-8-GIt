@@ -2,4 +2,5 @@
 #include <stdlib.h>
 void main()
 {
+int a, c;
 }
